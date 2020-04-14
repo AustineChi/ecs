@@ -1,0 +1,45 @@
+.church-image {
+    width: 100%;
+    border-radius: 10px;
+}
+.heart-box {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: #fff;
+    position: absolute;
+    top: 10px;
+    right:10px;
+    opacity: .7;
+
+}
+
+.church-header-title {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    margin-bottom: 4px
+}
+
+.star-image {
+    width:15px;
+    margin-right: 7px;
+}
+
+ul {
+font-size: 14px;
+line-height: 21px;
+padding-left: 20px;
+margin-top: 30px !important;
+margin-bottom: 20px !important;
+color: #666666;}
+
+.church-icon-1 {
+    width: 30px;
+    margin-right: 20px
+}
+
+.church-icon-2 {
+    width: 20px;
+    margin-right: 15px 
+}
